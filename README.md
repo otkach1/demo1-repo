@@ -1,2 +1,2 @@
 # demo1-repo
-demo of the trial repository 
+demo for trial repository 
